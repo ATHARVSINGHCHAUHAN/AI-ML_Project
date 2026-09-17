@@ -1,5 +1,5 @@
 # Crop-Disease-Identifier-Using-ImageProcessing
-Course: Fundamentals in AI and ML  Student Name: ADARSH KUMAR RAIWAL Registration Number: 25BCY10183
+Course: Fundamentals in AI and ML  Student Name: Atharv Singh Registration Number: 25MIM10198
 This project is a Python-based console application designed to help farmers and agricultural workers quickly identify common plant leaf diseases by analyzing leaf images. It utilizes fundamental computer vision techniques (OpenCV) and structured algorithms to classify diseases without requiring complex, resource-intensive deep learning models.
 
 ✨ Features and Capabilities
